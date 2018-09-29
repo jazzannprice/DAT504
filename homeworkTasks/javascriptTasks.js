@@ -30,3 +30,29 @@ for(let y=0; y<size; y++){
     if()
   }
 }
+
+// Minimum
+
+let min = function(a, b){
+  if (a < b){
+    return a;
+  } else {
+    return b;
+  }
+}
+
+// Recursion - Wasn't sure of the rest
+
+function isEven(number){
+  if (number == 0){
+    return true;
+  } else if (number == 1){
+    return false;
+  } else if (number)
+}
+
+// Bean Counting - Wasn't sure of the rest
+
+function countBs(string){
+  for()
+}
